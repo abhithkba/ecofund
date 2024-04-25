@@ -31,7 +31,7 @@ Introducing our groundbreaking crypto crowdfunding platform, dedicated to fuelin
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/abhithkba/ecofund.git
 ```
 
 Go to the project directory
