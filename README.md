@@ -66,3 +66,6 @@ Start the server
 ```
 App started on ```localhost:3000```
 
+## Future Works
+
+In addition to the existing features, new features will be added in the future. These include a vote proposal for all the accounts which donated to the project. Their voting power will be based on the amount of money donated. Eg Imagine a project request 10000000 an initial amount of 1000000 will be unlocked. Based on the results of their performance those who have  donated can vote to whether continue this project or not. 
