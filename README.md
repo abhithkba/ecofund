@@ -3,6 +3,8 @@
 
 Introducing our groundbreaking crypto crowdfunding platform, dedicated to fueling sustainable development through investments in clean solar and wind energy projects. Join us as we empower individuals to make a meaningful impact on our planet's future, driving forward innovative solutions for a greener and more sustainable world.
 
+**Video Link** - https://drive.google.com/file/d/1VYUWE-OhY0TSm6BjNdw1TNHY8UcwzCqN/view?usp=sharing
+
 
 ## Tech Stack
 
